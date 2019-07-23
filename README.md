@@ -10,4 +10,4 @@ A simple Pong clone
 - Player vs Player
 - Counting Score
 - Pause Game
-- Rest Game
+- Reset Game
